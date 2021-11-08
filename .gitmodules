@@ -1,4 +1,4 @@
 [submodule "server"] 
   path = server 
-  url = ssh://git@github.com:Ericzklm/Aeroplay.git
+  url = git@github.com:Ericzklm/Aeroplay.git
 
